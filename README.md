@@ -7,17 +7,9 @@ Projeto desenvolvido como requisito parcial para conclusão do módulo de Back-e
 # Sumário
 
 - [Habilidades](#habilidades)
-- [Entregáveis](#entregáveis)
-  - [O que deverá ser desenvolvido](#o-que-deverá-ser-desenvolvido)
-  - [Desenvolvimento](#desenvolvimento)
-  - [Data de entrega](#data-de-entrega)
-- [Instruções para entregar seu projeto](#instruções-para-entregar-seu-projeto)
-  - [Antes de começar a desenvolver](#antes-de-começar-a-desenvolver)
-  - [Durante o desenvolvimento](#durante-o-desenvolvimento)
-  - [Depois de terminar o desenvolvimento (opcional)](#depois-de-terminar-o-desenvolvimento-opcional)
+- [Data de entrega](#data-de-entrega)
 - [Como desenvolver](#como-desenvolver)
 - [Requisitos do projeto](#requisitos-do-projeto)
-  - [Linter](#linter)
   - [Lista de requisitos](#lista-de-requisitos)
     - [1 - Crie o endpoint GET /talker](#1---crie-o-endpoint-get-talker)
     - [2 - Crie o endpoint GET /talker/:id](#2---crie-o-endpoint-get-talkerid)
@@ -26,7 +18,6 @@ Projeto desenvolvido como requisito parcial para conclusão do módulo de Back-e
     - [5 - Crie o endpoint PUT /talker/:id](#5---crie-o-endpoint-put-talkerid)
     - [6 - Crie o endpoint DELETE /talker/:id](#6---crie-o-endpoint-delete-talkerid)
     - [7 - Crie o endpoint GET /talker/search?q=searchTerm](#7---crie-o-endpoint-get-talkersearchqsearchterm)
-- [Avisos Finais](#avisos-finais)
 
 ---
 
@@ -48,8 +39,6 @@ Neste projeto, foram desenvolvidas e avaliadas as seguintes habilidades:
 - Entendimento da estrutura de uma aplicação Express e de como organizar o código;
 - Criação de rotas e aplicação de middlewares.
 ---
-
-## Desenvolvimento
 
 ### Data de Entrega
 
